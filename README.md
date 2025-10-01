@@ -31,7 +31,8 @@ Then open the URL (default: http://localhost:8501
 ) in your browser.
 
 
-![PhishShield Demo](screenshot.png)
+![PhishShield Demo](images/screenshot.png)
+
 
 
 
