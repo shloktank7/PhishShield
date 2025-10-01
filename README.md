@@ -30,3 +30,18 @@ streamlit run app.py
 Then open the URL (default: http://localhost:8501
 ) in your browser.
 
+## 🛠️ Skills & Tech Used
+- **Python** for backend development  
+- **scikit-learn** for ML text classification  
+- **Streamlit** for interactive web app  
+- **Pandas** for data handling  
+- **Cybersecurity focus**: phishing detection use case
+
+
+## 🔮 Future Improvements
+- Expand training dataset for higher accuracy  
+- Add email header analysis (sender, domain reputation)  
+- Deploy live with Streamlit Cloud or Heroku for public demo  
+
+
+
