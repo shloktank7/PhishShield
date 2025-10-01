@@ -30,7 +30,9 @@ streamlit run app.py
 Then open the URL (default: http://localhost:8501
 ) in your browser.
 
+
 ![PhishShield Demo](screenshot.png)
+
 
 
 ## 🛠️ Skills & Tech Used
